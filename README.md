@@ -1,2 +1,2 @@
 # protest
-Staticke informacie o protestoch organizovane skupinou Za slusne Slovensko
+Staticke informacie o udalostiach Za slusne Slovensko
