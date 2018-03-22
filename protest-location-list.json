@@ -31,6 +31,14 @@
 	"fb_link": "https://www.facebook.com/events/179624509508658/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "48.4602721",
+	"lot": "18.892103399999996",
+	"pin": "mappin.png",
+	"title": "Banská Štiavnica",
+	"address": "Námestie svätej Trojice, Banská Štiavnica, Slovensko",
+	"fb_link": "https://www.facebook.com/events/207068749884862/",
+	"datum": "23-03-2018 17:00:00"
+}, {
 	"lat": "49.2927652",
 	"lot": "21.275413100000037",
 	"pin": "mappin.png",
@@ -55,14 +63,6 @@
 	"fb_link": "https://www.facebook.com/events/1228277123941319/",
 	"datum": "16-03-2018 17:00:00"
 }, {
-	"lat": "48.1485965",
-	"lot": "17.10774779999997",
-	"pin": "mappin.png",
-	"title": "Bratislava",
-	"address": "Bratislava, Slovensko",
-	"fb_link": "https://www.facebook.com/events/557634737939862/",
-	"datum": "23-03-2018 17:00:00"
-}, {
 	"lat": "48.8064193",
 	"lot": "19.64321199999995",
 	"pin": "mappin.png",
@@ -78,6 +78,14 @@
 	"address": "Námestie generála Štefánika, Brezno, Slovakia",
 	"fb_link": "https://www.facebook.com/events/414735418973888/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "49.19915979999999",
+	"lot": "16.60897209999996",
+	"pin": "mappin.png",
+	"title": "Brno",
+	"address": "Moravské náměstí, Brno-Brno-střed, Česko",
+	"fb_link": "https://www.facebook.com/events/610843345920632/permalink/611611069177193/",
+	"datum": "23-03-2018 17:00:00"
 }, {
 	"lat": "50.8421952",
 	"lot": "4.38439429999994",
@@ -239,6 +247,14 @@
 	"fb_link": "https://www.facebook.com/events/162376804468516/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "48.7189647",
+	"lot": "21.25896510000007",
+	"pin": "mappin.png",
+	"title": "Košice",
+	"address": "Dolná brána, Hlavní ulice, Košice, Slovensko",
+	"fb_link": "https://www.facebook.com/events/154113455280887/",
+	"datum": "23-03-2018 17:00:00"
+}, {
 	"lat": "48.7184871",
 	"lot": "21.25883479999993",
 	"pin": "mappin.png",
@@ -295,6 +311,14 @@
 	"fb_link": "https://www.facebook.com/events/358826054598951/",
 	"datum": "16-03-2018 17:30:00"
 }, {
+	"lat": "48.306566",
+	"lot": "14.285973000000013",
+	"pin": "mappin.png",
+	"title": "Linz",
+	"address": "Hauptplatz, Linz, Rakousko",
+	"fb_link": "https://www.facebook.com/events/456504251434100/",
+	"datum": "23-03-2018 17:30:00"
+}, {
 	"lat": "49.0838079",
 	"lot": "19.613274899999965",
 	"pin": "mappin.png",
@@ -318,6 +342,14 @@
 	"address": "Miesto konania upresníme",
 	"fb_link": "https://www.facebook.com/events/162477394412754/",
 	"datum": "16-03-2018 18:00:00"
+}, {
+	"lat": "",
+	"lot": "",
+	"pin": "mappin.png",
+	"title": "Los Angeles",
+	"address": "",
+	"fb_link": "https://www.facebook.com/events/293959634468482/",
+	"datum": "23-03-2018 18:00:00"
 }, {
 	"lat": "48.3298005",
 	"lot": "19.66066950000004",
@@ -390,6 +422,14 @@
 	"address": "Divadelné námestie v Martine",
 	"fb_link": "https://www.facebook.com/events/2000186420307919/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "48.7562928",
+	"lot": "21.91811759999996",
+	"pin": "mappin.png",
+	"title": "Michalovce",
+	"address": "Námestie osloboditeľov, Michalovce, Slovensko",
+	"fb_link": "https://www.facebook.com/events/373613049716702/",
+	"datum": "23-03-2018 17:00:00"
 }, {
 	"lat": "48.7562928",
 	"lot": "21.91811759999996",
@@ -510,6 +550,14 @@
 	"address": "2901 Cowper Street, Palo Alto, California 94306",
 	"fb_link": "https://www.facebook.com/events/156110735101049/",
 	"datum": "15-03-2018 17:30:00"
+}, {
+	"lat": "48.86515319999999",
+	"lot": "2.383783900000026",
+	"pin": "mappin.png",
+	"title": "Paríž",
+	"address": "PARC DE BELLEVILLE, 27 Rue des Bluets, Paříž, Francie",
+	"fb_link": "https://www.facebook.com/events/1024423374379147/",
+	"datum": "23-03-2018 19:00:00"
 }, {
 	"lat": "48.8710678",
 	"lot": "2.3847051000000192",
@@ -703,11 +751,11 @@
 	"fb_link": "https://www.facebook.com/events/2013116832343468/",
 	"datum": "16-03-2018 17:00:00"
 }, {
-	"lat": "48.1453107",
-	"lot": "17.111111400000027",
+	"lat": "48.6798645",
+	"lot": "17.361000200000035",
 	"pin": "mappin.png",
 	"title": "Senica",
-	"address": "Námestie SNP, Bratislava, Slovensko",
+	"address": "Senica, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1796937917003907/",
 	"datum": "23-03-2018 17:00:00"
 }, {
@@ -791,6 +839,14 @@
 	"fb_link": "https://www.facebook.com/events/1768388533223464/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "48.377642",
+	"lot": "17.586378200000013",
+	"pin": "mappin.png",
+	"title": "Trnava",
+	"address": "Trojičné námestie, Trnava, Slovensko",
+	"fb_link": "https://www.facebook.com/events/566252907074490/",
+	"datum": "23-03-2018 17:00:00"
+}, {
 	"lat": "49.2846045",
 	"lot": "-123.12482399999999",
 	"pin": "mappin.png",
@@ -814,14 +870,6 @@
 	"address": "Námestie A. H. Škultétyho, 990 01 Veľký Krtíš",
 	"fb_link": "https://www.facebook.com/events/1338406669592436/",
 	"datum": "16-03-2018 17:00:00"
-}, {
-	"lat": "48.2083206",
-	"lot": "16.376745099999994",
-	"pin": "mappin.png",
-	"title": "Viedeň",
-	"address": "Stephansdom, Vienna, Rakousko",
-	"fb_link": "https://www.facebook.com/events/210107259570823/",
-	"datum": "23-03-2018 17:00:00"
 }, {
 	"lat": "",
 	"lot": "",
