@@ -87,6 +87,14 @@
 	"fb_link": "https://www.facebook.com/events/2023473654593978/",
 	"datum": "16-03-2018 18:00:00"
 }, {
+	"lat": "50.8419759",
+	"lot": "4.383776300000022",
+	"pin": "mappin.png",
+	"title": "Brusel",
+	"address": "Schuman, Brusel, Belgie",
+	"fb_link": "https://www.facebook.com/events/153109352023085/",
+	"datum": "23-03-2018 18:00:00"
+}, {
 	"lat": "52.0799578",
 	"lot": "4.31646180000007",
 	"pin": "mappin.png",
@@ -118,6 +126,14 @@
 	"address": "80 Merrion Square South, Dublin, Ireland Dublin 2",
 	"fb_link": "https://www.facebook.com/events/545153612523136/",
 	"datum": "16-03-2018 19:30:00"
+}, {
+	"lat": "55.94594600000001",
+	"lot": "-3.1888959999999997",
+	"pin": "mappin.png",
+	"title": "Edinburgh",
+	"address": "Bristo Square, Edinburgh, Velká Británie",
+	"fb_link": "https://www.facebook.com/events/2063948787192924/",
+	"datum": "23-03-2018 18:00:00"
 }, {
 	"lat": "55.9461579",
 	"lot": "-3.1879725999999664",
@@ -182,6 +198,14 @@
 	"address": "Hlavné námestie 3, Kežmarok, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1614798951891305/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "48.1453107",
+	"lot": "17.111111400000027",
+	"pin": "mappin.png",
+	"title": "Bratislava",
+	"address": "Námestie SNP, Bratislava, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1868099933221375/",
+	"datum": "23-03-2018 17:00:00"
 }, {
 	"lat": "",
 	"lot": "",
@@ -311,6 +335,14 @@
 	"fb_link": "https://www.facebook.com/events/202368000529998/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "40.4167278",
+	"lot": "-3.7033387000000175",
+	"pin": "mappin.png",
+	"title": "Madrid",
+	"address": "Puerta del Sol, 28013 Madrid, Spain",
+	"fb_link": "https://www.facebook.com/events/565143607198994/",
+	"datum": "23-03-2018 19:30:00"
+}, {
 	"lat": "40.4200122",
 	"lot": "-3.705900100000008",
 	"pin": "mappin.png",
@@ -319,11 +351,11 @@
 	"fb_link": "https://www.facebook.com/events/1913279502318185/",
 	"datum": "16-03-2018 19:00:00"
 }, {
-	"lat": "",
-	"lot": "",
+	"lat": "36.7097238",
+	"lot": "-4.468981299999996",
 	"pin": "mappin.png",
 	"title": "Malaga",
-	"address": "",
+	"address": "Calle la Flauta Magica, Málaga, Španělsko",
 	"fb_link": "https://www.facebook.com/events/380377169094986/",
 	"datum": "23-03-2018 19:00:00"
 }, {
@@ -334,6 +366,14 @@
 	"address": "C/ Flauta Mágica Nº 22, 29006 Málaga, Spain Show map",
 	"fb_link": "https://www.facebook.com/events/177354446386367/",
 	"datum": "16-03-2018 19:00:00"
+}, {
+	"lat": "53.4802793",
+	"lot": "-2.2369869000000335",
+	"pin": "mappin.png",
+	"title": "Manchester",
+	"address": "Piccadilly Gardens, Manchester, Velká Británie",
+	"fb_link": "https://www.facebook.com/events/154044625271690/",
+	"datum": "23-03-2018 18:00:00"
 }, {
 	"lat": "49.0662326",
 	"lot": "18.922175599999946",
@@ -403,9 +443,25 @@
 	"lot": "18.08817010000007",
 	"pin": "mappin.png",
 	"title": "Nitra",
+	"address": "Svätoplukovo námestie, Nitra, Slovensko",
+	"fb_link": "https://www.facebook.com/events/189438128507961/",
+	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.3142037",
+	"lot": "18.08817010000007",
+	"pin": "mappin.png",
+	"title": "Nitra",
 	"address": "Svätoplukovo námestie, Nitra, Slovakia",
 	"fb_link": "https://www.facebook.com/events/177898016172032/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "48.75763250000001",
+	"lot": "17.831545799999958",
+	"pin": "mappin.png",
+	"title": "Nové Mesto nad Váhom",
+	"address": "Námestie slobody, Nové Mesto nad Váhom, Slovensko",
+	"fb_link": "https://www.facebook.com/events/964779570345078/",
+	"datum": "23-03-2018 17:00:00"
 }, {
 	"lat": "47.9859131",
 	"lot": "18.163431299999957",
@@ -511,6 +567,14 @@
 	"fb_link": "https://www.facebook.com/events/194638617967320/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "40.43828589999999",
+	"lot": "-80.0188379",
+	"pin": "mappin.png",
+	"title": "Pittsburgh",
+	"address": "Duquesne Incline at Upper Station, Pittsburgh, Pensylvánie, Spojené státy americké",
+	"fb_link": "https://www.facebook.com/events/1807074679595739/",
+	"datum": "23-03-2018 17:00:00"
+}, {
 	"lat": "48.6743044",
 	"lot": "17.77312660000007",
 	"pin": "mappin.png",
@@ -550,6 +614,14 @@
 	"address": "Odborov 245, Považská Bystrica, Slovensko",
 	"fb_link": "https://www.facebook.com/events/2092442204319717/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "50.0810226",
+	"lot": "14.427991700000007",
+	"pin": "mappin.png",
+	"title": "Praha",
+	"address": "Václavské náměstí, Nové Město, Praha-Praha 1, Česko",
+	"fb_link": "https://www.facebook.com/events/414151945693104/",
+	"datum": "23-03-2018 17:00:00"
 }, {
 	"lat": "50.0810226",
 	"lot": "14.427991700000007",
@@ -631,6 +703,30 @@
 	"fb_link": "https://www.facebook.com/events/2013116832343468/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "48.1453107",
+	"lot": "17.111111400000027",
+	"pin": "mappin.png",
+	"title": "Senica",
+	"address": "Námestie SNP, Bratislava, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1796937917003907/",
+	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "53.38086199999999",
+	"lot": "-1.4723960000000034",
+	"pin": "mappin.png",
+	"title": "Sheffield",
+	"address": "Sheffield City Hall, Barker's Pool, Sheffield, Velká Británie",
+	"fb_link": "https://www.facebook.com/events/1579367985514984/",
+	"datum": "23-03-2018 18:00:00"
+}, {
+	"lat": "48.8456759",
+	"lot": "17.228971600000023",
+	"pin": "mappin.png",
+	"title": "Skalica",
+	"address": "Námestie slobody, Skalica, Slovensko",
+	"fb_link": "https://www.facebook.com/events/218338058910761/",
+	"datum": "23-03-2018 17:00:00"
+}, {
 	"lat": "48.8456759",
 	"lot": "17.228971600000023",
 	"pin": "mappin.png",
@@ -695,6 +791,14 @@
 	"fb_link": "https://www.facebook.com/events/1768388533223464/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "49.2846045",
+	"lot": "-123.12482399999999",
+	"pin": "mappin.png",
+	"title": "Vancouver",
+	"address": "Robson Street, Vancouver, Britská Kolumbie, Kanada",
+	"fb_link": "https://www.facebook.com/events/762180903984432/",
+	"datum": "23-03-2018 18:30:00"
+}, {
 	"lat": "52.2168524",
 	"lot": "21.022194300000024",
 	"pin": "mappin.png",
@@ -717,6 +821,14 @@
 	"title": "Viedeň",
 	"address": "Stephansdom, Vienna, Rakousko",
 	"fb_link": "https://www.facebook.com/events/210107259570823/",
+	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "",
+	"lot": "",
+	"pin": "mappin.png",
+	"title": "Vráble",
+	"address": "",
+	"fb_link": "https://www.facebook.com/events/1788312238130863/",
 	"datum": "23-03-2018 17:00:00"
 }, {
 	"lat": "48.5909296",
@@ -757,5 +869,13 @@
 	"title": "Zürich",
 	"address": "Stadthausanlage, Curych, Švýcarsko",
 	"fb_link": "https://www.facebook.com/events/202495653843972/",
+	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.5789346",
+	"lot": "19.125737200000003",
+	"pin": "mappin.png",
+	"title": "Zvolen",
+	"address": "Park Ľudovíta Štúra, Zvolen, Slovensko",
+	"fb_link": "https://www.facebook.com/events/290913181441076/",
 	"datum": "23-03-2018 17:00:00"
 }]
